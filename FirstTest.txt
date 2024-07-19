@@ -2,3 +2,4 @@ FirstCommit line
 secondCommit line
 <<<<<<< HEA
 ThirdCommit lin
+commit from kamal2 branch
