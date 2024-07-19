@@ -1,6 +1,2 @@
 FirstCommit line
 secondCommit line
-<<<<<<< HEA
-ThirdCommit lin
-local commit from kamal2
-somethidng
