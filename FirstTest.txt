@@ -2,6 +2,3 @@ FirstCommit line
 secondCommit line
 <<<<<<< HEAD
 ThirdCommit lin
-=======
-ThirdCommit line remote
->>>>>>> e5017807f205b466709af6279c0c5a71b1077baa
