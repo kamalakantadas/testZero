@@ -1,4 +1,4 @@
 FirstCommit line
 secondCommit line
-<<<<<<< HEAD
+<<<<<<< HEA
 ThirdCommit lin
